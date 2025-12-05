@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @corrale2021
+- 👋 Hi, I’m @corrale
 - 👀 I’m interested in Art and Music
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
